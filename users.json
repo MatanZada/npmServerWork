@@ -1,0 +1,138 @@
+[
+    
+    {
+    "user_name": "idan",
+    "password": "1234",
+    "phone": "0526651266",
+    "email": "idanmagled@gmail.com",
+    "user_data": {
+        "age": 25,
+        "is_admin": true
+    }
+}, {
+    "user_name": "matan",
+    "password": "2121",
+    "phone": "0509644553",
+    "email": "matan@gmail.com",
+    "user_data": {
+        "age": 22,
+        "is_admin": true
+    }
+}, {
+    "user_name": "nir",
+    "password": "2222",
+    "phone": "050420178",
+    "email": "nir@gmail.com",
+    "user_data": {
+        "age": 33,
+        "is_admin": false
+    }
+}, {
+    "user_name": "yoni",
+    "password": "5858",
+    "phone": "0509644552",
+    "email": "yoni@gmail.com",
+    "user_data": {
+        "age": 33,
+        "is_admin": false
+    }
+}, {
+    "user_name": "ela",
+    "password": "7777",
+    "phone": "0504211554",
+    "email": "ela@gmail.com",
+    "user_data": {
+        "age": 45,
+        "is_admin": false
+    }
+}, {
+    "user_name": "pini",
+    "password": "14343",
+    "phone": "0526651116",
+    "email": "pini@gmail.com",
+    "user_data": {
+        "age": 15,
+        "is_admin": true
+    }
+}, {
+    "user_name": "chen",
+    "password": "15656",
+    "phone": "0526651206",
+    "email": "chen@gmail.com",
+    "user_data": {
+        "age": 14,
+        "is_admin": false
+    }
+}, {
+    "user_name": "miri",
+    "password": "17",
+    "phone": "052221266",
+    "email": "miri@gmail.com",
+    "user_data": {
+        "age": 12,
+        "is_admin": false
+    }
+}, {
+    "user_name": "yona",
+    "password": "64",
+    "phone": "0516651266",
+    "email": "yona@gmail.com",
+    "user_data": {
+        "age": 25,
+        "is_admin": false
+    }
+}, {
+    "user_name": "snir",
+    "password": "4444",
+    "phone": "0526651233",
+    "email": "snir@gmail.com",
+    "user_data": {
+        "age": 25,
+        "is_admin": false
+    }
+}, {
+    "user_name": "yarin",
+    "password": "6665",
+    "phone": "0526651236",
+    "email": "yarin@gmail.com",
+    "user_data": {
+        "age": 25,
+        "is_admin": false
+    }
+}, {
+    "user_name": "raz",
+    "password": "1334",
+    "phone": "0526653266",
+    "email": "raz@gmail.com",
+    "user_data": {
+        "age": 25,
+        "is_admin": false
+    }
+}, {
+    "user_name": "noam",
+    "password": "2221",
+    "phone": "0526221266",
+    "email": "noam@gmail.com",
+    "user_data": {
+        "age": 25,
+        "is_admin": false
+    }
+}, {
+    "user_name": "hoana",
+    "password": "1444",
+    "phone": "053331266",
+    "email": "hoana@gmail.com",
+    "user_data": {
+        "age": 1,
+        "is_admin": false
+    }
+}, {
+    "user_name": "rahel",
+    "password": "12121",
+    "phone": "05266333266",
+    "email": "xcxz",
+    "user_data": {
+        "age": 11,
+        "is_admin": false
+    }
+}]

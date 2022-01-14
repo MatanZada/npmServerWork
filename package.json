@@ -1,0 +1,27 @@
+{
+  "name": "06.01.22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "start_dev":"npx nodemon node ."
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21",
+    "bcrypt": "5.0.1",
+    "http":"0.0.1-security",
+    "moment":"^2.29.1",
+    "express": "4.17.2"
+    
+  },
+  "devDependencies": {
+    "nodemon":"^2.0.15"
+  }
+
+}
